@@ -1,0 +1,4 @@
+playtime_tier,total_games,total_positive,total_negative,percent_positive
+Medium (10-50 hours),769,7496873,1369578,84.55
+Massive (50+ hours),188,10953849,2345777,82.36
+Short (0-10 hours),5213,7349102,1579310,82.31

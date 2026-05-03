@@ -1,0 +1,32 @@
+Statistical Findings Report
+Project Title: Analyzing the Drivers of Gaming Fatigue (Portfolio Project #3)
+Analyst: Danish Khan
+Phase: Analyze
+
+1. Market Saturation & Release Volume Statistics
+- 2013 Total Releases: 418 games
+- 2018 Total Releases: 8,160 games
+- 5-Year Growth Rate: ~1,852% increase in yearly game releases on the Steam platform.
+- Era Comparison: The "Golden Era" (2000-2015) saw 5,980 total releases. The "Modern Era" (2016-Present) has seen 21,091 releases, representing a 252% increase in total market volume in a significantly shorter timeframe.
+
+2. Playtime & Engagement Statistics
+- Golden Era Median Playtime: 296.0 minutes per game.
+- Modern Era Median Playtime: 103.0 minutes per game.
+- Engagement Drop: The median time a player spends on a game has decreased by 65.2% in the modern era, strongly indicating player burnout and shorter attention spans per title.
+
+3. Genre Saturation Statistics (High Volume, Low Retention)
+- Top Saturated Genre 1: "Action;Indie" (1,852 releases). Median Playtime: 75.0 minutes.
+- Top Saturated Genre 2: "Casual;Indie" (1,482 releases). Median Playtime: 49.0 minutes.
+- Statistical Observation: The most frequently released genres suffer from the lowest overall player retention, indicating that developers flooding these specific markets face severe drop-off rates within the first hour of gameplay.
+
+4. Time Investment vs. Approval Rating Statistics
+- Medium Games (10-50 hours): 84.55% Positive Rating (Highest approval).
+- Massive Games (50+ hours): 82.36% Positive Rating (Drop in approval).
+- Short Games (0-10 hours): 82.31% Positive Rating.
+- Statistical Observation: Pushing a game's length past the 50-hour mark correlates with a 2.19% drop in overall player sentiment, refuting the industry assumption that "longer games equal better reviews."
+
+5. The Critic-User Sentiment Gap Statistics
+- Pre-2010 Gap: User scores routinely matched or exceeded Critic scores (e.g., 2009 showed a -0.54 gap, with users rating games higher).
+- Modern Era Gap (2012-2016): A consistent and widening mathematical gap emerged. 
+  - Peak Gap (2016): Average Critic Score = 73.20. Average User Score = 67.69. Gap = +5.50 points.
+- Statistical Observation: Over time, standard users have become demonstrably harsher critics of modern games compared to professional reviewers, visualizing the growing "veteran fatigue" with modern game design.
