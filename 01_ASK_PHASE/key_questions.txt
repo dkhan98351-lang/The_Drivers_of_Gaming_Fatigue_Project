@@ -1,0 +1,11 @@
+Key Research Questions: Analyzing the Drivers of Gaming Fatigue
+
+1. Market Overwhelm: How has the exponential increase in yearly game releases impacted average player engagement and per-title completion rates?
+
+2. The Time Investment Factor: Is there a statistically significant correlation between inflated average playtimes (indicative of live-service or open-world models) and a degradation in user or critic sentiment over time?
+
+3. Genre Saturation Analysis: Which specific gaming genres exhibit the highest disparity between release volume/sales and actual median playtime, suggesting acute player burnout?
+
+4. Platform Discrepancies: Do certain gaming platforms demonstrate a higher propensity for fatigue indicators (e.g., lower playtime rates relative to library size) compared to others?
+
+5. The Generational Shift (2000-2015 vs. Modern Era): How do macro-level metrics from the "golden era" (2000–2015) contrast with the post-2015 landscape? Do these systemic shifts empirically explain the phenomenon of "veteran player fatigue"?

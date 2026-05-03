@@ -1,0 +1,31 @@
+Stakeholder Analysis: Analyzing the Drivers of Gaming Fatigue
+
+1. Primary Stakeholders (Directly Impacted)
+
+Stakeholder: Gamers / Consumers
+- Interest Level: High
+- Influence Level: Low to Medium (Collective purchasing power)
+- Key Objectives: To understand the causes of their own gaming fatigue, manage their backlogs more effectively, and make informed purchasing decisions that maximize enjoyment and respect their time investment.
+- How they use the data: Utilizing insights to identify patterns in their own behavior (e.g., avoiding overly long live-service games if they are prone to burnout).
+
+Stakeholder: Game Developers & Game Designers
+- Interest Level: High
+- Influence Level: High (Directly shape the games being made)
+- Key Objectives: To understand the correlation between game length, genre mechanics, and player drop-off rates.
+- How they use the data: To optimize pacing, adjust game lengths, and design progression systems that maintain player retention without causing exhaustion or review-bombing.
+
+2. Secondary Stakeholders (Indirectly Impacted / Strategic)
+
+Stakeholder: Game Publishers & Investors
+- Interest Level: High
+- Influence Level: Very High (Control funding and release schedules)
+- Key Objectives: To maximize Return on Investment (ROI) and minimize market risk. They need to know if the market is oversaturated with certain genres or if the "live-service" model is showing diminishing returns in player sentiment.
+- How they use the data: Strategic planning for future game greenlighting, deciding release windows (avoiding saturated quarters), and allocating marketing budgets.
+
+3. Internal Stakeholders (Project Execution)
+
+Stakeholder: Danish Khan (Data Analyst)
+- Interest Level: Very High
+- Influence Level: High (Complete control over project execution)
+- Key Objectives: To successfully execute Portfolio Project #3, demonstrating advanced proficiency in SQL, Python (Pandas/NumPy), and Power BI. The goal is to produce a compelling, data-driven narrative about the shift from the 2000-2015 era to the modern gaming landscape.
+- How they use the data: As the core material for exploratory data analysis, data cleaning, and final dashboard visualization to present to prospective employers.

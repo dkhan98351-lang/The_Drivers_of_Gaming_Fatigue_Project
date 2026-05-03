@@ -1,0 +1,36 @@
+Project Scope: Analyzing the Drivers of Gaming Fatigue
+
+1. Project Goal
+To analyze historical video game data to quantify the factors contributing to "gaming fatigue," with a specific emphasis on comparing the 2000-2015 gaming landscape to the post-2015 era. 
+
+2. In-Scope
+- Analyzing yearly game release volumes to measure market saturation.
+- Evaluating average and median playtime metrics across different genres and categories.
+- Comparing User Scores and Critic Scores over time to identify shifts in sentiment.
+- Data cleaning and exploratory data analysis (EDA) using Python (Pandas, NumPy).
+- Data structuring and querying using SQL.
+- Developing an interactive dashboard using Power BI to visualize findings.
+
+3. Out-of-Scope
+- Predictive modeling or Machine Learning (this project focuses on historical analysis and BI).
+- Financial analysis of microtransactions, battle passes, or in-game economies (due to dataset limitations).
+- Qualitative data collection (e.g., surveying or interviewing gamers).
+- Analysis of mobile game markets.
+
+4. Datasets Provided
+- steam_store_games.csv (Contains Steam release dates, genres, playtime metrics, categories).
+- Video_Game_Sales_and_Ratings.csv (Contains global sales, critic scores, user scores).
+
+5. Final Deliverables
+- Fully documented Python/Pandas data cleaning scripts (Jupyter Notebook or .py files).
+- SQL queries used for data modeling.
+- An interactive Power BI dashboard highlighting key trends.
+- A final executive presentation/report summarizing actionable insights.
+
+6. Project Phases
+- Phase 1: Ask - Defining the business task, key questions, and overall scope.
+- Phase 2: Prepare - Organizing, storing, and verifying the raw datasets.
+- Phase 3: Process - Cleaning and transforming the data using Python (Pandas, NumPy).
+- Phase 4: Analyze - Querying the cleaned data using SQL to uncover trends.
+- Phase 5: Share - Building the Power BI dashboard and final presentation.
+- Phase 6: Act - Delivering actionable recommendations based on the data insights.
