@@ -1,0 +1,20 @@
+ROCCC Assessment: Gaming Fatigue Project Data
+
+This document evaluates the quality and credibility of the datasets used in this project based on the ROCCC framework (Reliable, Original, Comprehensive, Current, and Cited).
+
+Dataset 1: steam_store_games.csv
+- Reliable (R): MEDIUM. The data is pulled directly from the Steam API, which is a highly reliable source. However, playtime metrics (average/median) can be skewed by idle gaming or trading card farming.
+- Original (O): LOW/MEDIUM. This is a secondary dataset compiled by a Kaggle user, scraped from the Steam Store API. It is not raw, first-party data directly from Valve.
+- Comprehensive (C): HIGH. It contains extensive metadata for thousands of PC games, including detailed categories, genres, and crucial playtime statistics necessary to answer the business questions.
+- Current (C): LOW. The dataset was last updated in late 2019. It provides excellent historical context for the 2000-2019 era and the initial explosion of games post-2015, but lacks data for the 2020s.
+- Cited (C): HIGH. The dataset is well-documented on its original Kaggle repository, clearly citing the Steam API as its source.
+
+Dataset 2: Video_Game_Sales_and_Ratings.csv
+- Reliable (R): MEDIUM. Global sales data is notoriously difficult to track perfectly, especially with the modern shift to digital storefronts. Critic and User scores are aggregates (likely from Metacritic), which are reliable representations of sentiment but subject to review-bombing.
+- Original (O): LOW. Like the Steam dataset, this is a compiled secondary dataset hosted on Kaggle, utilizing scrapers from VGChartz and Metacritic.
+- Comprehensive (C): HIGH. It covers multiple decades and platforms, making it excellent for answering questions about the "Generational Shift" and "Platform Discrepancies."
+- Current (C): MEDIUM. Last updated in late 2023, it captures a significant portion of the modern gaming landscape, though sales figures for the most recent years may be incomplete due to reporting lags.
+- Cited (C): HIGH. The sources (VGChartz, Metacritic) are standard within the industry for this type of aggregated data.
+
+Conclusion & Mitigation:
+While neither dataset is perfectly original (both are secondary compilations), they are the most comprehensive public sources available for historical gaming analysis. To mitigate the "Currentness" limitation of the Steam dataset, the analysis will focus heavily on the definitive shift that occurred between 2014-2019 (the explosion of Steam Direct), using the more recent Sales dataset to validate if those trends continued into the 2020s.

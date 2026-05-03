@@ -1,0 +1,24 @@
+Data Limitations and Mitigation Strategy
+Project Title: Analyzing the Drivers of Gaming Fatigue
+Analyst: Danish Khan
+Phase: Prepare
+
+1. Platform Bias (The PC vs. Console Divide)
+- Limitation: The `steam_store_games.csv` dataset exclusively represents the PC gaming market. It does not account for console exclusives, console-specific player behaviors, or the mobile gaming market.
+- Mitigation: When analyzing genre saturation and playtime, conclusions will be explicitly scoped to the PC/Steam ecosystem. The multi-platform `Video_Game_Sales_and_Ratings.csv` dataset will be used to cross-reference and validate broader industry trends.
+
+2. The Digital Transition Gap
+- Limitation: Historical global sales data notoriously underreports digital downloads. Because the industry shifted heavily from physical to digital between 2010 and 2020, sales numbers for recent games in the `Video_Game_Sales_and_Ratings.csv` file may be artificially lower than their true market penetration.
+- Mitigation: Sales volume will be treated as a directional indicator of a game's popularity rather than an absolute financial metric. The "Market Overwhelm" factor will primarily be measured by the sheer volume of new game releases rather than raw sales numbers.
+
+3. Timeframe Discrepancies
+- Limitation: The Steam dataset captures data up to late 2019. It effectively captures the initial "explosion" of games post-2015 (Steam Direct) but misses the pandemic-induced gaming boom of 2020-2022 and the most recent wave of live-service fatigue.
+- Mitigation: The analysis will heavily focus on the critical transition period between the "Golden Era" (2000-2015) and the start of the modern saturated era (2015-2019). The Sales/Ratings dataset (which extends to 2023) will be utilized to bridge the gap and extend sentiment analysis into the current decade.
+
+4. Playtime Metric Flaws
+- Limitation: On Steam, the `average_playtime` metric can be heavily skewed by a small percentage of players leaving games running idle or utilizing third-party programs to farm Steam Trading Cards.
+- Mitigation: The analysis will prioritize `median_playtime` over `average_playtime` during the Process phase. The median is far more robust against these extreme outliers and better represents the typical player's actual time investment.
+
+5. Lack of Temporal Retention Data
+- Limitation: The datasets provide total playtime, but lack longitudinal data (e.g., how many players dropped off after week 1, week 2, etc.). We cannot definitively prove exactly *when* a player felt fatigued during a specific game, only the final outcome of their total engagement.
+- Mitigation: We will use the gap between Critic Scores (which generally reflect day-one reception) and User Scores (which reflect long-term consumer sentiment) as a proxy for player burnout over time.
